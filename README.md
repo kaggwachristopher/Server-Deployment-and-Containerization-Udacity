@@ -72,7 +72,9 @@ cd cd0157-Server-Deployment-and-Containerization/
 ├── test_main.py  #ToDo
 └── trust.json     #ToDo 
 ```
-
+### Create a file for the environment variables
+- Create a new file named `.env_file`
+- Copy the contents from the `example.env_file` file into your `.env_file` file and change set your prefered values 
      
 ## Project Steps
 
